@@ -60,6 +60,15 @@ CRUD-Users/
 
 ## ⚙️ Como rodar o projeto localmente
 
+> 🗄️ **Sobre o banco de dados**
+>
+> Este projeto utiliza um **banco de dados simples para fins de estudo**.
+>
+> * Não é necessário instalar MySQL, PostgreSQL ou serviços externos.
+> * Os dados são simulados localmente (ex: arquivo JSON ou estrutura em memória).
+>
+> Isso foi uma decisão consciente para facilitar testes e permitir que qualquer pessoa consiga rodar o projeto rapidamente.
+
 ### Pré-requisitos
 
 * Node.js instalado
